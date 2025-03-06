@@ -4,4 +4,8 @@ Console.WriteLine("Enter the First Numer");
 num1=Console.ReadLine();
 Console.WriteLine("Enter the Second Numer");
 num2=Console.ReadLine();
+Division
+sum = num1 / num2
+
 sum = num1 * num2
+ Multiplication
